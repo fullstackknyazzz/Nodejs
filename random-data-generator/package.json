@@ -1,0 +1,20 @@
+{
+  "name": "random-data-generator",
+  "version": "1.0.0",
+  "description": "A library for generating random data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstackknyazzz/random-data-generator.git"
+  },
+  "keywords": ["random", "data", "generator"],
+  "author": "fullstackknyazzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullstackknyazzz/random-data-generator/issues"
+  },
+  "homepage": "https://github.com/fullstackknyazzz/random-data-generator#readme"
+}
